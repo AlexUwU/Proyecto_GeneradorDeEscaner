@@ -26,6 +26,8 @@ namespace Proyecto_Generador_Escaner.ClasesDelProyecto
                     iSets = i;
                 if (Datos[i].ToString().ToUpper() == "TOKENS")
                     iTokens = i;
+                if (Datos[i].ToString().ToUpper() == "TOKEN")
+                    iActions = i;
                 if (Datos[i].ToString().ToUpper() == "ACTIONS")
                     iActions = i;
                 if (Datos[i].ToString().ToUpper().Contains("ERROR"))

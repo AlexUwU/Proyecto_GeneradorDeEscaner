@@ -47,7 +47,7 @@ namespace Proyecto_Generador_Escaner
                 ArrayList entrada = SepararSimbolos(ER);
                 ArrayList salida = InfijoASufijo(entrada);
                 CalcularAFD(salida);
-                MessageBox.Show("ADF Creado");
+                MessageBox.Show("AFD Creado");
             }
             catch
             {
@@ -61,7 +61,7 @@ namespace Proyecto_Generador_Escaner
             ArrayList entrada = SepararSimbolos(ER);
             ArrayList salida = InfijoASufijo(entrada);
             CalcularAFD(salida);
-            MessageBox.Show("ADF Creado");
+            MessageBox.Show("AFD Creado");
         }
         public ArrayList SepararSimbolos(string ER)
         {
