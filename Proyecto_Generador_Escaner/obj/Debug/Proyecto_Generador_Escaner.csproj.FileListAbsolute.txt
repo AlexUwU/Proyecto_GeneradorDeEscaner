@@ -1,0 +1,9 @@
+C:\Users\alexa\OneDrive\Escritorio\ED2Labs\Estructuras2\Proyecto_GeneradorDeEscaner\Proyecto_Generador_Escaner\obj\Debug\Proyecto_Generador_Escaner.csprojAssemblyReference.cache
+C:\Users\alexa\OneDrive\Escritorio\ED2Labs\Estructuras2\Proyecto_GeneradorDeEscaner\Proyecto_Generador_Escaner\obj\Debug\Proyecto_Generador_Escaner.Form1.resources
+C:\Users\alexa\OneDrive\Escritorio\ED2Labs\Estructuras2\Proyecto_GeneradorDeEscaner\Proyecto_Generador_Escaner\obj\Debug\Proyecto_Generador_Escaner.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Escritorio\ED2Labs\Estructuras2\Proyecto_GeneradorDeEscaner\Proyecto_Generador_Escaner\obj\Debug\Proyecto_Generador_Escaner.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Escritorio\ED2Labs\Estructuras2\Proyecto_GeneradorDeEscaner\Proyecto_Generador_Escaner\bin\Debug\Proyecto_Generador_Escaner.exe.config
+C:\Users\alexa\OneDrive\Escritorio\ED2Labs\Estructuras2\Proyecto_GeneradorDeEscaner\Proyecto_Generador_Escaner\bin\Debug\Proyecto_Generador_Escaner.exe
+C:\Users\alexa\OneDrive\Escritorio\ED2Labs\Estructuras2\Proyecto_GeneradorDeEscaner\Proyecto_Generador_Escaner\bin\Debug\Proyecto_Generador_Escaner.pdb
+C:\Users\alexa\OneDrive\Escritorio\ED2Labs\Estructuras2\Proyecto_GeneradorDeEscaner\Proyecto_Generador_Escaner\obj\Debug\Proyecto_Generador_Escaner.exe
+C:\Users\alexa\OneDrive\Escritorio\ED2Labs\Estructuras2\Proyecto_GeneradorDeEscaner\Proyecto_Generador_Escaner\obj\Debug\Proyecto_Generador_Escaner.pdb
